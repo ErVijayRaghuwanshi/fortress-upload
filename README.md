@@ -66,6 +66,16 @@ flowchart TB
     TEST_GEN --> TEST_DIR
 ```
 
+## Demo
+
+### Screenshot
+
+![Screenshot](screenshot.png)
+
+### Video Demo
+
+https://github.com/user-attachments/assets/demo.mov
+
 ## Defense Pipeline Flow
 
 ```mermaid
