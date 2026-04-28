@@ -70,11 +70,21 @@ flowchart TB
 
 ### Screenshot
 
-![Screenshot](screenshot.png)
+1. **Upload Local File** — Drag & drop or select a file from your device to see the defense pipeline in action. The UI will display the result of each layer (e.g., "Rejected by Layer 2: EICAR signature detected" or "Sanitized and saved as safe_Cat03.jpg.png").
+
+![Screenshot](docs/upload-local-file.png)
+
+2. **Fetch from URL** — Enter a URL to download and scan an image remotely. The defense pipeline will process the file similarly, with additional SSRF protection and streaming.
+![Screenshot](docs/fetch-from-url.png)
 
 ### Video Demo
 
-https://github.com/user-attachments/assets/demo.mov
+[Download Demo Video](./docs/demo.mov)
+
+Or view in browser:
+```html
+<video src="https://raw.githubusercontent.com/ErVijayRaghuwanshi/fortress-upload/main/docs/demo.mov" controls></video>
+```
 
 ## Defense Pipeline Flow
 
