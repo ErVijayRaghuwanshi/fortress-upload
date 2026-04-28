@@ -79,11 +79,11 @@ flowchart TB
 
 ### Video Demo
 
-[Download Demo Video](./docs/demo.mov)
+[Download Demo Video](./docs/demo.mp4)
 
 Or view in browser:
 ```html
-<video src="https://raw.githubusercontent.com/ErVijayRaghuwanshi/fortress-upload/main/docs/demo.mov" controls></video>
+<video src="https://raw.githubusercontent.com/ErVijayRaghuwanshi/fortress-upload/main/docs/demo.mp4" controls></video>
 ```
 
 ## Defense Pipeline Flow
