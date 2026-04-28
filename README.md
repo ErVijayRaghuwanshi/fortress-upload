@@ -140,6 +140,12 @@ pip install fastapi uvicorn python-multipart Pillow python-magic
 uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
+## Or simply run the script:
+
+```bash
+python main.py
+```
+
 Navigate to `http://localhost:8000` to access the upload interface with two modes:
 
 - **Upload Local File** — Drag & drop or select a file from your device
